@@ -41,5 +41,13 @@
     "avatar": "rahul.png",
     "city": "Hyderabad",
     "quote": "Change things"
+  },
+  {
+    "github": "ANkurNagila",
+    "name": "Ankur Nagila",
+    "organization": "Thoughtworks",
+    "avatar": "first.jpg",
+    "city": "Haldwani",
+    "quote": "Be Brave"
   }
 ]
